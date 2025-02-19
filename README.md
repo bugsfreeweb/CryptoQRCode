@@ -1,0 +1,1 @@
+Crypto QR Code generator!
