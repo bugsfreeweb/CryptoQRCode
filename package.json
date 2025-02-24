@@ -1,5 +1,5 @@
 {
-  "name": "crypto-transaction-qr-generator",
+  "name": "crypto-qr-generator",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
