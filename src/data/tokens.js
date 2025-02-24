@@ -1,8 +1,8 @@
-import BitcoinLogo from '../images/bitcoinLogo.png';
-import BitcoinCashLogo from '../images/bitcoinCashLogo.png';
-import CasperLogo from '../images/casperLogo.png';
-import EthereumLogo from '../images/ethereumLogo.png';
-import LitecoinLogo from '../images/litecoinLogo.png';
+import BitcoinLogo from './images/bitcoinLogo.png';
+import BitcoinCashLogo from './images/bitcoinCashLogo.png';
+import CasperLogo from './images/casperLogo.png';
+import EthereumLogo from './images/ethereumLogo.png';
+import LitecoinLogo from './images/litecoinLogo.png';
 
 const tokens = [
     {
