@@ -1,5 +1,5 @@
 {
-  "name": "crypto-qr-generator",
+  "name": "qr-generator",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
